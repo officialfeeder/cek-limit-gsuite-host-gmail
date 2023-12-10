@@ -1,5 +1,4 @@
 <?php
-
 $password = "Ranger";
 
 session_start();
